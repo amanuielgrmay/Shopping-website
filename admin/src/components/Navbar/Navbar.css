@@ -1,0 +1,35 @@
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 60px;
+  box-shadow: 0 1px 3px -2px #000;
+  margin-bottom: 1px;
+  background: white;
+}
+.nav-logo-container {
+  display: flex;
+}
+.nav-logo {
+  padding-right: 20px;
+  width: 70px;
+  height: auto;
+}
+.nav-logo-text p {
+  position: relative;
+  bottom: 20px;
+  color: red;
+}
+.nav-logo-text h3 {
+  font-weight: 600;
+}
+.nav-profile {
+  width: 75px;
+  height: 60px;
+}
+
+@media (max-width: 800px) {
+  .navbar {
+    padding: 15px 30px;
+  }
+}

@@ -4,8 +4,6 @@
 ![Screenshot 2024-05-14 174644](https://github.com/amanuielgrmay/Shopping-website/assets/66867848/f8a7a6a8-48b2-4a2d-83fb-f5dc0e635ff8)
 ![Screenshot 2024-05-14 174620](https://github.com/amanuielgrmay/Shopping-website/assets/66867848/b6da8e9a-2cf2-4550-8002-e5ce7dcafaec)
 ![Screenshot 2024-05-14 174435](https://github.com/amanuielgrmay/Shopping-website/assets/66867848/99f9a4a6-6f68-456e-b41f-6488a34712f5)
-![Screenshot 2024-05-29 140232](https://github.com/amanuielgrmay/Shopping-website/assets/66867848/797031a8-6fa8-4ea1-9685-4e90b29edb29)
-![Screenshot 2024-05-29 140219](https://github.com/amanuielgrmay/Shopping-website/assets/66867848/8373162b-219f-4be1-8808-ae0b6513e73b)
 ![Screenshot 2024-05-14 183140](https://github.com/amanuielgrmay/Shopping-website/assets/66867848/11e2ad01-f39b-40f3-bb1b-c43e18f4eeaa)
 ![Screenshot 2024-05-14 182947](https://github.com/amanuielgrmay/Shopping-website/assets/66867848/35453318-b929-4b71-b0da-ae8326673358)
 ![Screenshot 2024-05-14 181512](https://github.com/amanuielgrmay/Shopping-website/assets/66867848/1f2ac30f-aa27-498d-adef-387d74c74ca6)

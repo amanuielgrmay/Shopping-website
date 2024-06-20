@@ -12,9 +12,7 @@ app.use(express.json());
 app.use(cors());
 
 //database connection wirh mongodb
-mongoose.connect(
-  "mongodb+srv://amanuielgrmay:Ggpfep65@cluster0.nz30mbl.mongodb.net/ecommerce"
-);
+mongoose.connect(process.env.SECRET_KEY);
 
 // Api creation
 
